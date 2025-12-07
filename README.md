@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # LiveDataRAG - Real-Time Data Processing with Autonomous Actions
 
 A production-ready system that combines **Real-time Data Processing**, **RAG (Retrieval-Augmented Generation)**, and **Autonomous Action Execution** to create an intelligent data analysis and automation platform.
@@ -287,3 +288,6 @@ See `COMPLETE_SETUP_GUIDE.md` for detailed troubleshooting steps.
 ---
 
 Made with ❤️ by Kavya Munusamy
+=======
+# LiveDataRag
+>>>>>>> 3122e617802a47247d109f5e8307f2b1ed151f0b
